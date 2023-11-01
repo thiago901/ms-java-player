@@ -1,0 +1,14 @@
+server.port=8080
+
+spring.data.mongodb.uri=someURL
+
+spring.rabbitmq.addresses=someURL
+brocker.queue.player.create.name = player-create
+brocker.queue.player.list.name = players-list
+brocker.queue.player.show.name = player-show
+brocker.queue.player.delete.name = player-delete
+brocker.queue.player.update.name = player-update
+
+
+
+
